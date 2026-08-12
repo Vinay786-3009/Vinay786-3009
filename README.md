@@ -1,158 +1,159 @@
-# 👋 Hi, I'm B Vinay
+<div align="center">
+
+# 👋 Hi, I'm **B Vinay**
 
 ### 🚀 Full Stack Developer | Java Developer | Problem Solver
 
-<p align="center">
-  <b>Building real-world applications • Solving DSA problems • Learning every day</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+Full+Stack+Developer;React+%7C+Spring+Boot+%7C+JavaScript;Data+Structures+%26+Algorithms+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Vinay786-3009&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech student passionate about Software Development and Technology.
+Hi! I'm **B Vinay**, a B.Tech student and aspiring **Full Stack Developer** who enjoys turning ideas into working applications.
 
-💻 I enjoy building full-stack web applications and solving programming problems.
+💻 I love building web applications and solving programming problems.
 
-🚀 Currently focusing on **Java, Spring Boot, React.js and Full Stack Development**.
+☕ My primary programming language is **Java**.
 
-🧠 Practicing **Data Structures & Algorithms** and improving problem-solving skills.
+🌐 I enjoy working with **React.js, JavaScript and modern web technologies**.
 
-🤖 Exploring **Machine Learning, AI and modern web technologies**.
+⚙️ Currently strengthening my backend skills with **Spring Boot and REST APIs**.
 
-🎯 My goal is to become a strong **Full Stack Software Developer** and build useful real-world applications.
+🧠 I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills.
 
----
+🤖 I'm also exploring **Artificial Intelligence, Machine Learning and modern development tools**.
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+🎯 My goal is to become a strong software engineer who can design, build and deploy real-world applications.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 What I Do
 
-## 🚗 Car Price Prediction
+```text
+☕ Java Development
+🌐 Full Stack Web Development
+⚛️ React Application Development
+⚙️ Backend & REST API Development
+🧠 Data Structures & Algorithms
+🤖 Machine Learning & AI
+🗄️ Database Development
+🚀 Building Real-World Projects
+Projects
+🛠️ My Tech Stack
+💻 Programming Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,javascript,python" /> </p>
+🌐 Frontend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,react" /> </p>
+⚙️ Backend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs" /> </p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
+🔧 Tools & Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p>
+🚀 Featured Projects
 
-Machine Learning project for predicting car prices based on different features.
+I believe the best way to learn technology is to build with it.
 
-**Technologies:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+🚗 Car Price Prediction
+Machine Learning Project
 
-**Highlights:**
-- Data preprocessing
-- Feature analysis
-- Machine learning model training
-- Price prediction
-- Model evaluation
+A Machine Learning project designed to predict car prices based on different vehicle features.
 
-🔗 [View Project](https://github.com/Vinay786-3009/CodeAlpha_Car_Price_Prediction)
+Tech Stack:
+Python Pandas NumPy Scikit-learn Machine Learning
 
----
+✨ Highlights
+📊 Data preprocessing
+🔍 Feature analysis
+🤖 Machine Learning model training
+📈 Model evaluation
+🚗 Car price prediction
 
-## 🤖 AI Chatbot
+🔗 View Repository →
 
-AI-powered chatbot application built with modern web technologies.
+🤖 AI Chatbot
+AI-Powered Web Application
 
-**Technologies:** `Next.js` `React` `JavaScript` `AI`
+A modern AI chatbot application designed with a clean and interactive conversational interface.
 
-**Highlights:**
-- Interactive chat interface
-- AI integration
-- Responsive design
-- Modern UI
-- Component-based architecture
+Tech Stack:
+Next.js React JavaScript AI
 
-🔗 [View Project](https://github.com/Vinay786-3009/nextjs-ai-chatbot)
+✨ Highlights
+💬 Interactive chat interface
+🤖 AI integration
+⚡ Modern frontend
+📱 Responsive design
+🧩 Component-based architecture
 
----
+🔗 View Repository →
 
-## 🌸 Iris Flower Classification
+🌸 Iris Flower Classification
+Machine Learning Classification Project
 
-Machine Learning classification project using the famous Iris dataset.
+A Machine Learning project using the famous Iris dataset to classify flowers into different species.
 
-**Technologies:** `Python` `Pandas` `NumPy` `Scikit-learn`
+Tech Stack:
+Python Pandas NumPy Scikit-learn
 
-**Highlights:**
-- Data analysis
-- Data preprocessing
-- Classification
-- Model training
-- Model evaluation
+✨ Highlights
+📊 Dataset analysis
+🧹 Data preprocessing
+🤖 Classification model
+📈 Model evaluation
+🧪 Machine Learning workflow
 
-🔗 [View Project](https://github.com/Vinay786-3009/ADA-DAY-ONE)
+🔗 View Repository →
 
----
+🌐 3D Portfolio
+Interactive Personal Portfolio
 
-## 🌐 3D Portfolio
+An interactive portfolio project focused on creating a modern developer experience using React and 3D web technologies.
 
-Interactive personal portfolio website showcasing my skills, projects and development journey.
+Tech Stack:
+React Three.js React Three Fiber JavaScript
 
-**Technologies:** `React` `Three.js` `React Three Fiber` `JavaScript`
+✨ Highlights
+🌐 Modern portfolio interface
+🎨 Interactive UI
+🧊 3D elements
+📱 Responsive design
+🚀 Project showcase
+🧠 Data Structures & Algorithms
 
-**Highlights:**
-- 3D interactive elements
-- Modern UI
-- Responsive design
-- Project showcase
-- Personal branding
+Problem solving is an important part of my development journey.
 
----
+I regularly practice DSA using Java.
 
-# 🧠 Data Structures & Algorithms
+📚 Topics I Practice
+Arrays
+Strings
+Linked Lists
+Stacks & Queues
+Hashing
+Binary Search
+Sliding Window
+Two Pointers
+Trees
+Graphs
+Greedy Algorithms
+Dynamic Programming
+Recursion
+Backtracking
+💡 My Approach
 
-I regularly practice Data Structures and Algorithms to improve my problem-solving skills.
+Understand → Think → Code → Test → Optimize → Learn
 
-### Topics
+I focus not only on getting the correct answer, but also on understanding time complexity, space complexity and optimization.
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Hashing
-- Trees
-- Graphs
-- Recursion
-- Dynamic Programming
-- Greedy Algorithms
-- Binary Search
-- Sliding Window
-- Two Pointers
-- Backtracking
-
-💻 Primary language for DSA: **Java**
-
----
-
-# 📚 Currently Learning
+📚 Currently Learning
 
 🌱 Advanced Java
 
@@ -164,7 +165,7 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 🌱 Full Stack Development
 
-🌱 SQL & Databases
+🌱 SQL & Database Design
 
 🌱 Data Structures & Algorithms
 
@@ -172,64 +173,100 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 🌱 Cloud & Deployment
 
----
+🌱 AI & Machine Learning
 
-# 🎯 2026 Goals
+🎯 2026 Goals
+ Improve Java programming
+ Practice Data Structures & Algorithms
+ Build Machine Learning projects
+ Learn React.js
+ Build full-stack projects
+ Master Spring Boot
+ Build production-ready REST APIs
+ Learn cloud deployment
+ Contribute to Open Source
+ Build more AI-powered applications
+ Get a Software Development Internship
+ Become a professional Full Stack Developer
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vinay786-3009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay786-3009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Vinay786-3009&theme=tokyonight&hide_border=true" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay786-3009&theme=tokyo-night&hide_border=true&area=true" width="95%"/> </div>
+🐍 My Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Vinay786-3009/Vinay786-3009/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+💡 Developer Mindset
+<div align="center">
+Learn → Build → Break → Debug → Improve → Repeat 🔁
+</div>
 
-- [x] Improve Java programming
-- [x] Practice Data Structures & Algorithms
-- [x] Build Machine Learning projects
-- [x] Learn React.js
-- [x] Build full-stack projects
-- [ ] Master Spring Boot
-- [ ] Build production-level applications
-- [ ] Contribute to Open Source
-- [ ] Get a Software Development Internship
-- [ ] Become a professional Full Stack Developer
+I believe that becoming a good developer isn't about knowing everything.
 
----
+It's about:
 
-# 💻 What I Like Building
+Learning consistently.
 
-💻 Full Stack Web Applications
+Building projects.
 
-🤖 AI-powered Applications
+Solving problems.
 
-📊 Data & Machine Learning Projects
+Understanding mistakes.
 
-🎓 Student-focused Applications
+And improving every day.
 
-⚙️ Backend APIs
+💼 What I'm Looking For
 
-🌐 Modern React Applications
+💻 Software Development Internships
 
-🧩 Problem-solving projects
+☕ Java Developer Opportunities
 
----
+🌐 Full Stack Development Opportunities
 
-# 📈 My Development Journey
+⚛️ React Development Opportunities
 
-```text
-Java
-████████████████████░░ 90%
+⚙️ Spring Boot Development Opportunities
 
-Data Structures & Algorithms
-████████████████░░░░░░ 80%
+🤝 Open Source Contributions
 
-HTML / CSS
-████████████████████░░ 90%
+🚀 Interesting Project Collaborations
 
-JavaScript
-████████████████░░░░░░ 80%
+🌟 My Developer Journey
+                    👨‍💻
+                     │
+                     ▼
+              Learning Programming
+                     │
+                     ▼
+                ☕ Java + DSA
+                     │
+                     ▼
+             🌐 Web Development
+                     │
+                     ▼
+                ⚛️ React.js
+                     │
+                     ▼
+               ⚙️ Spring Boot
+                     │
+                     ▼
+             🚀 Full Stack Apps
+                     │
+                     ▼
+              🤖 AI / ML Projects
+                     │
+                     ▼
+             ☁️ Cloud & Deployment
+                     │
+                     ▼
+          💼 Professional Developer
+🤝 Let's Connect
+<div align="center"> <a href="https://github.com/Vinay786-3009"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+⚡ A Little About Me
+☕ Coffee + Code
+🎧 Music + Programming
+🧠 DSA + Problem Solving
+🚀 Ideas + Projects
+📚 Learning + Building
 
-React.js
-███████████████░░░░░░░ 75%
-
-Spring Boot
-███████████░░░░░░░░░░░ 55%
-
-SQL / Databases
-████████████████░░░░░░ 80%
-
-Machine Learning
-███████████░░░░░░░░░░░ 55%
+"The best way to predict your future is to build it." 🚀
