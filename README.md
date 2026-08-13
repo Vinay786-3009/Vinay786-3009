@@ -73,7 +73,6 @@ Hello! I'm **Bangalore Vinay**, a passionate **Full Stack Engineer** driven by s
 </table>
 
 ---
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
